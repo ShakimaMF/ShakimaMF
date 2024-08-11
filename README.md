@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hey there, I’m Shakima 👋🏾
+Outside of work, you can find me working on various side-projects.
+- 🔭 My current focus is on my first open source project, [Aspostrus](https://apostrus.com) (_A blog backend for Laravel_)
+- 🌐 You can learn more about me on my website [sinfullycoded.com](https://sinfullycoded.com)
+- 🐦 Or, say hi on [X/Twitter](https://twitter.com/sinfullycoded)
+
 
 <!--
 **ShakimaMF/ShakimaMF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
