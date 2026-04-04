@@ -1,6 +1,6 @@
 ## Hey there, I’m Shakima 👋🏾
 Outside of work, you can find me working on various side-projects.
-- 🔭 My current focus is on my first open source project, [Aspostrus](https://apostrus.com) (_A blog backend for Laravel_)
+- 🔭 My current focus is on my first open source projects Sprincul JS and Helve PHP (more to come).
 - 🌐 You can learn more about me on my website [sinfullycoded.com](https://sinfullycoded.com)
 - 🐦 Or, say hi on [X/Twitter](https://twitter.com/sinfullycoded)
 
